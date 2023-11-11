@@ -1,13 +1,17 @@
-### Hi there 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
-</picture>
+### Hello dear visitors!
+- 🌱 I’m currently learning Python in SoftUni!
+
 <p>
+  - 📫 How to reach me: ...
   <a href="https://www.linkedin.com/in/angel-karastoyanov-445934210/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> &nbsp; 
+  <a href="https://github.com/maxaaa9" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> 
+    
+
 </p>
+
 <!--
 **maxaaa9/maxaaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
