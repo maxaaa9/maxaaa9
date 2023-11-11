@@ -3,7 +3,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 </picture>
-
+<p>
+  <a href="https://www.linkedin.com/in/angel-karastoyanov-445934210/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
 <!--
 **maxaaa9/maxaaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
