@@ -4,6 +4,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
+</picture>
 <!--
 **maxaaa9/maxaaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
