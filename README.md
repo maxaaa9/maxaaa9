@@ -4,12 +4,11 @@
 <p>
   - 📫 How to reach me: ...
   <a href="https://www.linkedin.com/in/angel-karastoyanov-445934210/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="linkedin" style="width: 32px; height: 32px;">
   </a> &nbsp; 
   <a href="https://github.com/maxaaa9" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> 
-    
-
+    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="github" style="width: 32px; height: 32px;"> 
+  </a>
 </p>
 
 <!--
